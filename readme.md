@@ -2,6 +2,9 @@
 
 Este é o repositório do projeto "BestMovies", um aplicativo de filmes feito com React. O projeto foi desenvolvido como parte do mini curso de React da página Hora de Codar no YouTube. Aqui você encontrará o código-fonte do projeto, bem como as dependências necessárias para executá-lo.
 
+## Preview
+<img src="./src/assets/best.png" alt="Imagem preview da home da aplicação">
+
 ## Como Clonar e Instalar
 
 Para clonar e instalar o projeto em sua máquina local, siga os passos abaixo:
